@@ -1,16 +1,21 @@
 body {
 	font-family: Georgia, serif;
 	background-image: url("https://image.freepik.com/free-vector/declaration-of-love_23-2147517078.jpg");
-	background-size: cover;
+	background-size: 500px 600px;
+	background-repeat: no-repeat;
+	background-position: center top;
+	
 	text-align: center;
 	position: relative;
-	top: 250spx;
+	top: 150px;
 }
 p {
-	color: red;
+	color: white;
 	font-size: 32px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 h1 {
 	color: blue;
 	font-size: 56px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
