@@ -4,7 +4,7 @@ body {
 	background-size: cover;
 	text-align: center;
 	position: relative;
-	top: 400px;
+	top: 250spx;
 }
 p {
 	color: red;
@@ -12,5 +12,5 @@ p {
 }
 h1 {
 	color: blue;
-	font-size:56px;
+	font-size: 56px;
 }
